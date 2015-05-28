@@ -1,0 +1,4 @@
+New Features:
+ - You can now reset your character from the options menu.
+ - A vendor has been added to Runner's Rest named Milly. She can sell you contracts for more followers.
+ - First phase of the PC UI is in.
