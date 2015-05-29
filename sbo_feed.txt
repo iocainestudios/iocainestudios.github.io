@@ -6,12 +6,12 @@ New Features:
 Coming Soon:
  - Crop farming (Harvest Moon style)
  - Proper crafting items. Right now they’re mostly temp. 
-- Cleaner UI for follower tasks. 
-- Desktop version of the UI with smaller buttons and tooltips. 
-- WASD, click-and-hold, and gamepad controls 
-- Berry farming. 
-- LOTTTS more story stuff 
-- Cutscenes before every act. 
-- The Salon (to change your appearance) 
-- Elemental damage types and states 
-- Player shops
+ - Cleaner UI for follower tasks. 
+ - Desktop version of the UI with smaller buttons and tooltips. 
+ - WASD, click-and-hold, and gamepad controls 
+ - Berry farming. 
+ - LOTTTS more story stuff 
+ - Cutscenes before every act. 
+ - The Salon (to change your appearance) 
+ - Elemental damage types and states 
+ - Player shops
